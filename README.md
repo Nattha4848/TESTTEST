@@ -1,1 +1,2 @@
-# TESTTEST
+สคริปต์
+local print("KUY")
